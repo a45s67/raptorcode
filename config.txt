@@ -1,0 +1,35 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+  core:
+    packagesWithSnippetsDisabled: []
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 17
+    scrollPastEnd: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "958fef3d-e224-48a1-8178-f412ae2b6c92"
+  "julia-client":
+    consoleOptions: {}
+    firstBoot: false
+    juliaOptions:
+      optimisationLevel: 0
+    juliaPath: "C:\\Users\\Administrator\\AppData\\Local\\Julia-1.0.2\\bin\\julia"
+    uiOptions:
+      enableMenu: true
+      enableToolBar: true
+  "tool-bar":
+    position: "Left"
+  "uber-juno":
+    disable: true
+  welcome:
+    showOnStartup: false
+".julia.source":
+  editor:
+    autoIndent: true
+    autoIndentOnPaste: true
+    showIndentGuide: false
+    showInvisibles: false
